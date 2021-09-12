@@ -1,3 +1,147 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+######################## default configuration ####################
+baseURL = "https://visualpartnership.xyz/latinxperts"
+canonifyURLs = true
+title = "❤️ LatinXperts Gallery"
+theme = "bookworm-light"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "20"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+
+############################# Modules ##############################
+[module.hugoVersion]
+extended = true
+min = "0.80.0"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+############################## Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/line-awesome/css/line-awesome.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/instagram-feed/instagram-feed.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+# site variables
+[params.variables]
+font_primary = "Mulish"
+h1 = "64px"
+h1_lg = "52px"
+h1_md = "42px"
+h2 = "38px"
+h2_md = "30px"
+h3 = "30px"
+h3_md = "24px"
+h4 = "24px"
+h5 = "18px"
+h6 = "16px"
+white = "#ffffff"
+black = "#000000"
+dark = "#bb004e"
+gray = "#747577"
+light = "#FAFAFA"
+color_primary = "#f7cd00"
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+logo_height = "35px"
+favicon = "images/favicon.png"
+# Meta data
+description = "Registros Gráficos de LatinXperts de GitHub Education"
+author = "@visual_partner"
+# search
+search = false
+# main section
+mainSections = ["blog"]
+# copyright
+copyright = "Ilustraciones hechas por [@visual_partner](https://visualpartnership.xyz/)"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Instagram feed
+[params.instafeed]
+enable = false
+instagram_user = "visual_partner"
+access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+
+# Subscription
+[params.subscription]
+enable = false
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+title = "Subscribe for our monthly newsletter."
+input_placeholder = "Enter your email"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+
+############################# Main Menu ########################
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Sobre este proyecto"
+url = "about/"
+weight = 3
+
+############################# Footer Menu ########################
+[[menu.footer]]
+name = "Sobre este proyecto"
+url = "about/"
+weight = 1
+
+[[menu.footer]]
+name = "Colaboradores"
+url = "author/"
+weight = 2
+
+# Social Icons
+[[params.social]]
+icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+url = "https://www.facebook.com/visualpartnership"
+
+[[params.social]]
+icon = "lab la-twitter" # https://icons8.com/line-awesome
+url = "https://www.twitter.com/visual_partner"
+
+[[params.social]]
+icon = "lab la-instagram" # https://icons8.com/line-awesome
+url = "https://www.instagram.com/visual_partner"
+
+[[params.social]]
+icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+url = "https://www.linkedin.com/company/visual-partnership"
