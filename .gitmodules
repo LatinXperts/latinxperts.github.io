@@ -1,0 +1,3 @@
+[submodule "themes/bookworm-light"]
+	path = themes/bookworm-light
+	url = git@github.com:visualpartnership/bookworm-light.git
