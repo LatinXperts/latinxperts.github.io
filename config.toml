@@ -1,6 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://visualpartnership.xyz/latinxperts"
-canonifyURLs = true
+baseURL = "https:/latinxperts.github.io"
 title = "LatinXperts 🍍"
 theme = "bookworm-light"
 # post pagination
