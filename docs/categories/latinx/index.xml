@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on LatinXperts 🍍</title>
-    <link>https:///latinxperts.github.io/blog/</link>
-    <description>Recent content in Blog on LatinXperts 🍍</description>
+    <title>Latinx on LatinXperts 🍍</title>
+    <link>https:///latinxperts.github.io/categories/latinx/</link>
+    <description>Recent content in Latinx on LatinXperts 🍍</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Feb 2022 18:02:30 -0600</lastBuildDate><atom:link href="https:///latinxperts.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 18:02:30 -0600</lastBuildDate><atom:link href="https:///latinxperts.github.io/categories/latinx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ep. 1 Pedro Galván @ Software Guru</title>
       <link>https:///latinxperts.github.io/blog/ep1/</link>

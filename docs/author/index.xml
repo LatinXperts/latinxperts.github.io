@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on ❤️ LatinXperts Gallery</title>
-    <link>https://visualpartnership.xyz/latinxperts/author/</link>
-    <description>Recent content in Author on ❤️ LatinXperts Gallery</description>
+    <title>Author on LatinXperts 🍍</title>
+    <link>https:///latinxperts.github.io/author/</link>
+    <description>Recent content in Author on LatinXperts 🍍</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://visualpartnership.xyz/latinxperts/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https:///latinxperts.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Henara Colii</title>
-      <link>https://visualpartnership.xyz/latinxperts/author/henara-colii/</link>
-      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
+      <title>Fernanda Ochoa</title>
+      <link>https:///latinxperts.github.io/author/fernandaochoa/</link>
+      <pubDate>Wed, 02 Feb 2022 10:20:19 +0600</pubDate>
       
-      <guid>https://visualpartnership.xyz/latinxperts/author/henara-colii/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
+      <guid>https:///latinxperts.github.io/author/fernandaochoa/</guid>
+      <description>Host de LatinXperts.</description>
     </item>
     
     <item>
-      <title>Lubana Era</title>
-      <link>https://visualpartnership.xyz/latinxperts/author/lubana-era/</link>
-      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
+      <title>Carlo Gilmar</title>
+      <link>https:///latinxperts.github.io/author/carlogilmar/</link>
+      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
       
-      <guid>https://visualpartnership.xyz/latinxperts/author/lubana-era/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
+      <guid>https:///latinxperts.github.io/author/carlogilmar/</guid>
+      <description>Co-host de LatinXperts.</description>
     </item>
     
   </channel>
