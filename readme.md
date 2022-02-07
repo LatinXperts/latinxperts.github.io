@@ -1,5 +1,7 @@
 # 🍍 LatinXperts Website
 
+![](/static/images/piña.jpg)
+
 ### Como correr en local 🚀
 
 1. [Instalar GoHugo](https://gohugo.io/)
