@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://visualpartnership.xyz/latinxperts"
 canonifyURLs = true
-title = "❤️ LatinXperts Gallery"
+title = "LatinXperts 🍍"
 theme = "bookworm-light"
 # post pagination
 paginate = "5"
