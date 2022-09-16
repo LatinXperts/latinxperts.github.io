@@ -1,6 +1,6 @@
 ---
 title: "Fernanda Ochoa"
-image: "https://pbs.twimg.com/profile_images/1308201827289055232/BTR2IrJh_400x400.jpg"
+image: "https://avatars.githubusercontent.com/u/9124597?v=4"
 date: 2022-02-02T10:20:19+06:00
 draft: false
 social:
