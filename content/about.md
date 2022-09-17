@@ -6,6 +6,6 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "LatinXperts, our show in spanish to empower the Latinx community through conversations with awesome guests and inspired conversations."
+  title: "LatinXperts – Nuestro programa tiene como objetivo inspirar y empoderar a la comunidad latina a través de excelentes charlas con invitados increíbles."
 
 ---
